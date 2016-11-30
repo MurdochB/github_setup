@@ -1,7 +1,7 @@
 # Tasks
 
 - JOB 1 [dev done]
-- JOB 2
+- JOB 2 [dev done]
 - JOB 3
 - JOB 4
 - JOB 5 
