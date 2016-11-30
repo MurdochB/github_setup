@@ -2,7 +2,7 @@
 
 ## TODO
 
-- JOB 1
+- JOB 1 [done]
 - JOB 2
 - JOB 3
 
