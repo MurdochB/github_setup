@@ -7,4 +7,4 @@
 - JOB 5 
 - JOB 6 
 
-X I am bug X
+Bug fixed
