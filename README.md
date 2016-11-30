@@ -1,9 +1,9 @@
-# github_setup
-Testing git / github setup 
-I am a test commit
-Commit 2
+# Clean
 
+## TODO
 
-I am a new line
+- JOB 1
+- JOB 2
+- JOB 3
 
-I am a bad line :c
+X I am bug X
